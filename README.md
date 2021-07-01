@@ -65,7 +65,7 @@
 ### 체크박스 표현
 
 ### 꺾은선 그래프 표현
-    ![스크린샷(220)](https://user-images.githubusercontent.com/62291578/124080622-89a92000-da85-11eb-92f4-224057c8e1e7.png)
+![스크린샷(220)](https://user-images.githubusercontent.com/62291578/124080622-89a92000-da85-11eb-92f4-224057c8e1e7.png)
 
     
     
